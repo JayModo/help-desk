@@ -1,0 +1,11 @@
+C:\Users\j\codeworks\ticket-tracker\bin\Debug\netcoreapp3.0\ticket-tracker.exe
+C:\Users\j\codeworks\ticket-tracker\bin\Debug\netcoreapp3.0\ticket-tracker.deps.json
+C:\Users\j\codeworks\ticket-tracker\bin\Debug\netcoreapp3.0\ticket-tracker.runtimeconfig.json
+C:\Users\j\codeworks\ticket-tracker\bin\Debug\netcoreapp3.0\ticket-tracker.runtimeconfig.dev.json
+C:\Users\j\codeworks\ticket-tracker\bin\Debug\netcoreapp3.0\ticket-tracker.dll
+C:\Users\j\codeworks\ticket-tracker\bin\Debug\netcoreapp3.0\ticket-tracker.pdb
+C:\Users\j\codeworks\ticket-tracker\obj\Debug\netcoreapp3.0\ticket-tracker.csprojAssemblyReference.cache
+C:\Users\j\codeworks\ticket-tracker\obj\Debug\netcoreapp3.0\ticket-tracker.AssemblyInfoInputs.cache
+C:\Users\j\codeworks\ticket-tracker\obj\Debug\netcoreapp3.0\ticket-tracker.AssemblyInfo.cs
+C:\Users\j\codeworks\ticket-tracker\obj\Debug\netcoreapp3.0\ticket-tracker.dll
+C:\Users\j\codeworks\ticket-tracker\obj\Debug\netcoreapp3.0\ticket-tracker.pdb
